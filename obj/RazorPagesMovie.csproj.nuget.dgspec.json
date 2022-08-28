@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jason/LearnNext/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "/home/becode/Learn/RazorMovie/RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/home/jason/LearnNext/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "/home/becode/Learn/RazorMovie/RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jason/LearnNext/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "/home/becode/Learn/RazorMovie/RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/home/jason/LearnNext/RazorPagesMovie/RazorPagesMovie.csproj",
-        "packagesPath": "/home/jason/.nuget/packages/",
-        "outputPath": "/home/jason/LearnNext/RazorPagesMovie/obj/",
+        "projectPath": "/home/becode/Learn/RazorMovie/RazorPagesMovie.csproj",
+        "packagesPath": "/home/becode/.nuget/packages/",
+        "outputPath": "/home/becode/Learn/RazorMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jason/.nuget/NuGet/NuGet.Config"
+          "/home/becode/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -63,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
